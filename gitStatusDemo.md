@@ -1,1 +1,1 @@
-This is new line, this is a better change.
+This is new line, this is a change.
